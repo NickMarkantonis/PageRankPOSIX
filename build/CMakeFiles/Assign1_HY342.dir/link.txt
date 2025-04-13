@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Assign1_HY342.dir/src/main.c.o -o Assign1_HY342  -lpthread 
